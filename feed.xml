@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>coloradobankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://coloradobankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://coloradobankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://coloradobankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Colorado Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://coloradobankruptcy.org/" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Colorado bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Colorado exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The 341 Meeting of Creditors in Colorado</title>
+    <link href="https://coloradobankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What to expect at the 341 meeting of creditors in Colorado. Location, questions asked, what to bring, and how to prepare for your hearing in the.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Colorado Bankruptcy</title>
+    <link href="https://coloradobankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Colorado residents when filing bankruptcy. What stops immediately, what does not, stay violations, and your.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Colorado</title>
+    <link href="https://coloradobankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Colorado. Levies, setoff rights, protecting deposits, and what to do before filing in D. Colo..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13 in Colorado?</title>
+    <link href="https://coloradobankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a car during Chapter 13 bankruptcy in Colorado. Court motions, trustee approval, interest rates, and budget requirements.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Colorado</title>
+    <link href="https://coloradobankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how you can buy a home after filing bankruptcy in Colorado. Waiting periods for FHA, VA, and conventional loans, credit rebuilding, and.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy in Colorado</title>
+    <link href="https://coloradobankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your car lease in Colorado bankruptcy. Assume or reject, 60-day deadline, early termination fees, and practical options.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy Eligibility in Colorado</title>
+    <link href="https://coloradobankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Colorado. Debt limits, regular income, plan length, and requirements for filing in D. Colo..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Colorado</title>
+    <link href="https://coloradobankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 payment amounts are calculated in Colorado. Disposable income, plan length, missed payments, and modification options in D. Colo..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Colorado -- Payment Plans, Timeline</title>
+    <link href="https://coloradobankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://coloradobankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Colorado. Payment plan basics, timeline, 3-5 year commitment, and what to expect during the repayment process.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
