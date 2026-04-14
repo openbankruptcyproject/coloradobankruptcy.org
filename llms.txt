@@ -1,89 +1,90 @@
-# Colorado Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Colorado Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Colorado bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Colorado exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 coloradobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Colorado Bankruptcy -- Chapter 7 & 13 Filing Guide: https://coloradobankruptcy.org/
-- Chapter 7 Bankruptcy in Colorado -- Eligibility, Exemptions, Timeline: https://coloradobankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Colorado -- Payment Plans, Timeline: https://coloradobankruptcy.org/chapter-13.html
-- How Much Does Bankruptcy Cost in Colorado? -- Filing Fees, Attorney Fees: https://coloradobankruptcy.org/cost.html
-- Colorado Bankruptcy Exemptions -- What You Can Keep: https://coloradobankruptcy.org/exemptions.html
-- Colorado Bankruptcy FAQ -- 15 Common Questions Answered: https://coloradobankruptcy.org/faq.html
-- Colorado Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://coloradobankruptcy.org/resources.html
-- Colorado Bankruptcy Statistics -- Filing Data and Trends: https://coloradobankruptcy.org/statistics.html
-- Filing Bankruptcy in Denver, Colorado -- Complete Guide | Denver Bankruptcy: https://coloradobankruptcy.org/denver/
-- Chapter 7 Bankruptcy in Denver, Colorado -- Eligibility, Process & Cost: https://coloradobankruptcy.org/denver/chapter-7.html
-- Chapter 13 Bankruptcy in Denver, Colorado -- Repayment Plans & Eligibility: https://coloradobankruptcy.org/denver/chapter-13.html
-- Colorado Bankruptcy Exemptions for Denver Residents ($250,000 Homestead): https://coloradobankruptcy.org/denver/exemptions.html
-- How Much Does Bankruptcy Cost in Denver, Colorado? (2026 Guide): https://coloradobankruptcy.org/denver/cost.html
-- Bankruptcy FAQ for Denver, Colorado -- Common Questions Answered: https://coloradobankruptcy.org/denver/faq.html
-- Denver Means Test: Do You Qualify for Chapter 7 in Colorado?: https://coloradobankruptcy.org/denver/means-test.html
-- Can I Keep My Car in Bankruptcy? Denver, Colorado Guide: https://coloradobankruptcy.org/denver/keep-your-car.html
-- Can I Keep My House in Bankruptcy? Denver, Colorado Guide: https://coloradobankruptcy.org/denver/keep-your-house.html
-- 341 Meeting of Creditors in Denver, Colorado -- What to Expect: https://coloradobankruptcy.org/denver/341-meeting.html
-- Bankruptcy in Aurora, Colorado -- Filing Guide for Aurora Residents: https://coloradobankruptcy.org/denver/suburbs/aurora.html
-- Bankruptcy in Lakewood, Colorado -- Filing Guide for Lakewood Residents: https://coloradobankruptcy.org/denver/suburbs/lakewood.html
-- Bankruptcy in Thornton, Colorado -- Filing Guide for Thornton Residents: https://coloradobankruptcy.org/denver/suburbs/thornton.html
-- Bankruptcy in Arvada, Colorado -- Filing Guide for Arvada Residents: https://coloradobankruptcy.org/denver/suburbs/arvada.html
-- Bankruptcy in Westminster, Colorado -- Filing Guide for Westminster Residents: https://coloradobankruptcy.org/denver/suburbs/westminster.html
-- Bankruptcy in Centennial, Colorado -- Filing Guide for Centennial Residents: https://coloradobankruptcy.org/denver/suburbs/centennial.html
-- Bankruptcy in Boulder, Colorado -- Filing Guide for Boulder Residents: https://coloradobankruptcy.org/denver/suburbs/boulder.html
-- Bankruptcy in Fort Collins, Colorado -- Filing Guide for Fort Collins Residents: https://coloradobankruptcy.org/denver/suburbs/fort-collins.html
-- Filing Bankruptcy in Colorado Springs, Colorado -- Complete Guide | Colorado Springs Bankruptcy: https://coloradobankruptcy.org/colorado-springs/
-- Chapter 7 Bankruptcy in Colorado Springs, Colorado -- Eligibility, Process & Cost: https://coloradobankruptcy.org/colorado-springs/chapter-7.html
-- Chapter 13 Bankruptcy in Colorado Springs, Colorado -- Repayment Plans & Eligibility: https://coloradobankruptcy.org/colorado-springs/chapter-13.html
-- Colorado Bankruptcy Exemptions for Colorado Springs Residents ($250,000 Homestead): https://coloradobankruptcy.org/colorado-springs/exemptions.html
-- Bankruptcy FAQ for Colorado Springs, Colorado -- Common Questions Answered: https://coloradobankruptcy.org/colorado-springs/faq.html
 - The 341 Meeting of Creditors in Colorado: https://coloradobankruptcy.org/341-meeting.html
 - The Automatic Stay in Colorado Bankruptcy: https://coloradobankruptcy.org/automatic-stay.html
+- Bank Accounts and Bankruptcy in Colorado: https://coloradobankruptcy.org/bank-account.html
+- Can I Buy a Car While in Chapter 13 in Colorado?: https://coloradobankruptcy.org/buy-car-chapter-13.html
+- Buying a House After Bankruptcy in Colorado: https://coloradobankruptcy.org/buying-a-house.html
+- Car Leases and Bankruptcy in Colorado: https://coloradobankruptcy.org/car-lease.html
+- Chapter 13 Bankruptcy Eligibility in Colorado: https://coloradobankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Payments in Colorado: https://coloradobankruptcy.org/chapter-13-payments.html
+- Chapter 13 Bankruptcy in Colorado - Payment Plans, Timeline: https://coloradobankruptcy.org/chapter-13.html
+- Chapter 7 Bankruptcy Eligibility in Colorado: https://coloradobankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Bankruptcy in Colorado - Eligibility, Exemptions, Timeline: https://coloradobankruptcy.org/chapter-7.html
 - Bankruptcy Filing Checklist for Colorado: https://coloradobankruptcy.org/checklist.html
+- Chapter 13 Bankruptcy in Colorado Springs, Colorado - Repayment Plans & Eligibility: https://coloradobankruptcy.org/colorado-springs/chapter-13.html
+- Chapter 7 Bankruptcy in Colorado Springs, Colorado - Eligibility, Process & Cost: https://coloradobankruptcy.org/colorado-springs/chapter-7.html
+- Colorado Bankruptcy Exemptions for Colorado Springs Residents ($250,000 Homestead): https://coloradobankruptcy.org/colorado-springs/exemptions.html
+- Bankruptcy FAQ for Colorado Springs, Colorado - Common Questions Answered: https://coloradobankruptcy.org/colorado-springs/faq.html
+- Filing Bankruptcy in Colorado Springs, Colorado - Complete Guide | Colorado Springs Bankruptcy: https://coloradobankruptcy.org/colorado-springs/
+- Converting Bankruptcy Chapters in Colorado: https://coloradobankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Colorado? - Filing Fees, Attorney Fees: https://coloradobankruptcy.org/cost.html
 - Rebuilding Credit After Bankruptcy in Colorado: https://coloradobankruptcy.org/credit-after-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Colorado: https://coloradobankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Bankruptcy in Colorado: https://coloradobankruptcy.org/credit-cards-before-filing.html
 - Types of Debt in Colorado Bankruptcy: https://coloradobankruptcy.org/debt-types.html
+- 341 Meeting of Creditors in Denver, Colorado - What to Expect: https://coloradobankruptcy.org/denver/341-meeting.html
+- Chapter 13 Bankruptcy in Denver, Colorado - Repayment Plans & Eligibility: https://coloradobankruptcy.org/denver/chapter-13.html
+- Chapter 7 Bankruptcy in Denver, Colorado - Eligibility, Process & Cost: https://coloradobankruptcy.org/denver/chapter-7.html
+- How Much Does Bankruptcy Cost in Denver, Colorado? (2026 Guide): https://coloradobankruptcy.org/denver/cost.html
+- Colorado Bankruptcy Exemptions for Denver Residents ($250,000 Homestead): https://coloradobankruptcy.org/denver/exemptions.html
+- Bankruptcy FAQ for Denver, Colorado - Common Questions Answered: https://coloradobankruptcy.org/denver/faq.html
+- Filing Bankruptcy in Denver, Colorado - Complete Guide | Denver Bankruptcy: https://coloradobankruptcy.org/denver/
+- Can I Keep My Car in Bankruptcy? Denver, Colorado Guide: https://coloradobankruptcy.org/denver/keep-your-car.html
+- Can I Keep My House in Bankruptcy? Denver, Colorado Guide: https://coloradobankruptcy.org/denver/keep-your-house.html
+- Denver Means Test: Do You Qualify for Chapter 7 in Colorado?: https://coloradobankruptcy.org/denver/means-test.html
+- Bankruptcy in Arvada, Colorado - Filing Guide for Arvada Residents: https://coloradobankruptcy.org/denver/suburbs/arvada.html
+- Bankruptcy in Aurora, Colorado - Filing Guide for Aurora Residents: https://coloradobankruptcy.org/denver/suburbs/aurora.html
+- Bankruptcy in Boulder, Colorado - Filing Guide for Boulder Residents: https://coloradobankruptcy.org/denver/suburbs/boulder.html
+- Bankruptcy in Centennial, Colorado - Filing Guide for Centennial Residents: https://coloradobankruptcy.org/denver/suburbs/centennial.html
+- Bankruptcy in Fort Collins, Colorado - Filing Guide for Fort Collins Residents: https://coloradobankruptcy.org/denver/suburbs/fort-collins.html
+- Bankruptcy in Lakewood, Colorado - Filing Guide for Lakewood Residents: https://coloradobankruptcy.org/denver/suburbs/lakewood.html
+- Bankruptcy in Thornton, Colorado - Filing Guide for Thornton Residents: https://coloradobankruptcy.org/denver/suburbs/thornton.html
+- Bankruptcy in Westminster, Colorado - Filing Guide for Westminster Residents: https://coloradobankruptcy.org/denver/suburbs/westminster.html
+- Bankruptcy Disqualifications in Colorado: https://coloradobankruptcy.org/disqualifications.html
+- Divorce and Bankruptcy in Colorado: https://coloradobankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Colorado: https://coloradobankruptcy.org/emergency-bankruptcy.html
+- Bankruptcy and Employment in Colorado - Discrimination, Hiring, Your Rights: https://coloradobankruptcy.org/employment.html
+- Can I Keep My Jewelry in Colorado Bankruptcy?: https://coloradobankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction in Colorado?: https://coloradobankruptcy.org/eviction.html
+- Colorado Bankruptcy Exemptions - What You Can Keep: https://coloradobankruptcy.org/exemptions.html
+- Colorado Bankruptcy FAQ - 15 Common Questions Answered: https://coloradobankruptcy.org/faq.html
+- How to Find Bankruptcy Filings in Colorado: https://coloradobankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Colorado: https://coloradobankruptcy.org/foreclosure.html
+- Colorado Bankruptcy Glossary: https://coloradobankruptcy.org/glossary.html
+- Bankruptcy Income Limits in Colorado: https://coloradobankruptcy.org/income-limits.html
+- Colorado Bankruptcy - Chapter 7 & 13 Filing Guide: https://coloradobankruptcy.org/
+- Judgments and Bankruptcy in Colorado: https://coloradobankruptcy.org/judgments.html
 - Keep Your Car in Bankruptcy in Colorado: https://coloradobankruptcy.org/keep-your-car.html
 - Keep Your House in Bankruptcy in Colorado: https://coloradobankruptcy.org/keep-your-house.html
+- Filing Bankruptcy for Medical Debt in Colorado - Discharge, Alternatives, Protections: https://coloradobankruptcy.org/medical-debt-only.html
 - Medical Debt and Bankruptcy in Colorado: https://coloradobankruptcy.org/medical-debt.html
-- Vehicle Repossession and Bankruptcy in Colorado: https://coloradobankruptcy.org/repossession.html
-- Small Business Bankruptcy in Colorado: https://coloradobankruptcy.org/small-business.html
-- Student Loans and Bankruptcy in Colorado: https://coloradobankruptcy.org/student-loans.html
-- Tax Debt and Bankruptcy in Colorado: https://coloradobankruptcy.org/tax-debt.html
-- Bankruptcy Timeline in Colorado: https://coloradobankruptcy.org/timeline.html
-- Stop Wage Garnishment in Colorado with Bankruptcy: https://coloradobankruptcy.org/wage-garnishment.html
-- Emergency Bankruptcy Filing in Colorado: https://coloradobankruptcy.org/emergency-bankruptcy.html
-- Divorce and Bankruptcy in Colorado: https://coloradobankruptcy.org/divorce-and-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Colorado: https://coloradobankruptcy.org/credit-card-debt.html
-- Converting Bankruptcy Chapters in Colorado: https://coloradobankruptcy.org/converting-chapters.html
-- Chapter 7 Bankruptcy Eligibility in Colorado: https://coloradobankruptcy.org/chapter-7-eligibility.html
-- Chapter 13 Bankruptcy Eligibility in Colorado: https://coloradobankruptcy.org/chapter-13-eligibility.html
-- Buying a House After Bankruptcy in Colorado: https://coloradobankruptcy.org/buying-a-house.html
-- Colorado Bankruptcy Glossary: https://coloradobankruptcy.org/glossary.html
 - Payday Loans and Bankruptcy in Colorado: https://coloradobankruptcy.org/payday-loans.html
-- Judgments and Bankruptcy in Colorado: https://coloradobankruptcy.org/judgments.html
+- Undoing a Reaffirmation Agreement in Colorado - 60-Day Rescission, Options: https://coloradobankruptcy.org/reaffirmation-regret.html
+- Renting After Bankruptcy in Colorado - Landlord Screening, Tips, Tenant Rights: https://coloradobankruptcy.org/renting-after-bankruptcy.html
+- Repossession and Credit Reports After Bankruptcy in Colorado: https://coloradobankruptcy.org/repo-credit-report.html
+- Vehicle Repossession and Bankruptcy in Colorado: https://coloradobankruptcy.org/repossession.html
+- Colorado Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://coloradobankruptcy.org/resources.html
+- Can I Keep My 401k and Retirement in Colorado Bankruptcy?: https://coloradobankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Colorado: https://coloradobankruptcy.org/second-mortgage.html
-- Bank Accounts and Bankruptcy in Colorado: https://coloradobankruptcy.org/bank-account.html
-- Chapter 13 Payments in Colorado: https://coloradobankruptcy.org/chapter-13-payments.html
-- Bankruptcy Income Limits in Colorado: https://coloradobankruptcy.org/income-limits.html
-- Bankruptcy Disqualifications in Colorado: https://coloradobankruptcy.org/disqualifications.html
-- Can I Buy a Car While in Chapter 13 in Colorado?: https://coloradobankruptcy.org/buy-car-chapter-13.html
-- Can Bankruptcy Stop an Eviction in Colorado?: https://coloradobankruptcy.org/eviction.html
-- Car Leases and Bankruptcy in Colorado: https://coloradobankruptcy.org/car-lease.html
+- Bankruptcy and Security Clearance in Colorado - Will I Lose My Clearance?: https://coloradobankruptcy.org/security-clearance.html
+- Small Business Bankruptcy in Colorado: https://coloradobankruptcy.org/small-business.html
+- Colorado Bankruptcy Statistics - Filing Data and Trends: https://coloradobankruptcy.org/statistics.html
+- What Bills to Stop Paying Before Bankruptcy in Colorado: https://coloradobankruptcy.org/stop-paying-bills.html
+- Student Loans and Bankruptcy in Colorado: https://coloradobankruptcy.org/student-loans.html
+- Surrendering Your Car in Colorado Bankruptcy - Process, Deficiency, Options: https://coloradobankruptcy.org/surrender-car.html
+- Tax Debt and Bankruptcy in Colorado: https://coloradobankruptcy.org/tax-debt.html
+- Tax Refunds and Chapter 13 in Colorado - Trustee Practices, Protecting Your Refund: https://coloradobankruptcy.org/tax-refund-chapter13.html
+- Bankruptcy Timeline in Colorado: https://coloradobankruptcy.org/timeline.html
 - Timeshares and Bankruptcy in Colorado: https://coloradobankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Colorado?: https://coloradobankruptcy.org/travel-chapter-13.html
-- What Bills to Stop Paying Before Bankruptcy in Colorado: https://coloradobankruptcy.org/stop-paying-bills.html
-- Using Credit Cards Before Bankruptcy in Colorado: https://coloradobankruptcy.org/credit-cards-before-filing.html
-- How to Find Bankruptcy Filings in Colorado: https://coloradobankruptcy.org/find-bankruptcy-filing.html
-- Repossession and Credit Reports After Bankruptcy in Colorado: https://coloradobankruptcy.org/repo-credit-report.html
-- Can I Keep My Jewelry in Colorado Bankruptcy?: https://coloradobankruptcy.org/engagement-ring.html
-- Can I Keep My 401k and Retirement in Colorado Bankruptcy?: https://coloradobankruptcy.org/retirement-accounts.html
-- Renting After Bankruptcy in Colorado -- Landlord Screening, Tips, Tenant Rights: https://coloradobankruptcy.org/renting-after-bankruptcy.html
-- Bankruptcy and Security Clearance in Colorado -- Will I Lose My Clearance?: https://coloradobankruptcy.org/security-clearance.html
-- Undoing a Reaffirmation Agreement in Colorado -- 60-Day Rescission, Options: https://coloradobankruptcy.org/reaffirmation-regret.html
-- Tax Refunds and Chapter 13 in Colorado -- Trustee Practices, Protecting Your Refund: https://coloradobankruptcy.org/tax-refund-chapter13.html
-- Surrendering Your Car in Colorado Bankruptcy -- Process, Deficiency, Options: https://coloradobankruptcy.org/surrender-car.html
-- Filing Bankruptcy for Medical Debt in Colorado -- Discharge, Alternatives, Protections: https://coloradobankruptcy.org/medical-debt-only.html
-- Bankruptcy and Employment in Colorado -- Discrimination, Hiring, Your Rights: https://coloradobankruptcy.org/employment.html
+- Stop Wage Garnishment in Colorado with Bankruptcy: https://coloradobankruptcy.org/wage-garnishment.html
+- Privacy Policy: https://coloradobankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
