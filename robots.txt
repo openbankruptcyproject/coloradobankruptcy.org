@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://coloradobankruptcy.org/sitemap.xml
 
-Sitemap: https://coloradobankruptcy.org/feed.xml
+
+Sitemap: https://coloradobankruptcy.org/sitemapindex.xml
